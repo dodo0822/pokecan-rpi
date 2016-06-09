@@ -1,0 +1,14 @@
+{
+  "name": "pokecan-web",
+  "version": "1.0.0",
+  "description": "Pokecan Web UI",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chih-Wei Fang",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
